@@ -1,4 +1,4 @@
-# Netlify Reaches a Million Developers!
+<span class="h4">The German-American Chamber of Commerce Pittsburgh chapter and Turbine Workforce</span> <span class=""> will power a broad expansion of Tech Upskilling and Advanced Technology Pre-Apprenticeships.
 
 ![Screenshot of Site](https://assets.codepen.io/28963/CleanShot+2020-08-01+at+16.29.48%402x.png)
 
